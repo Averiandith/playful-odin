@@ -319,7 +319,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets, suppress_callback_exceptions=True)
 server = app.server
-app.title=tabtitle
+app.title='Twitter Dashboard'
 
 app.layout = html.Div(children = [
 
