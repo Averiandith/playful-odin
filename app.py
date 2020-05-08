@@ -562,7 +562,7 @@ def update_figure_2(selected_idx):
 
 ###################################################################
 if __name__ == "__main__":
-    app.run_server(debug=True, use_reloader=False)  
+    app.run_server()  
 
 
 
