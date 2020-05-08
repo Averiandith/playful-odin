@@ -19,4 +19,19 @@ pyparsing==2.4.6
 tweepy==3.8.0
 unicodecsv==0.14.1
 gunicorn==20.0.4
+certifi==2019.6.16
+chardet==3.0.4
+Click==7.0
+html5lib==1.0.1
+idna==2.8
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+jupyter-core==4.5.0
+MarkupSafe==1.1.1
+nbformat==4.4.0
+pytz==2019.1
+six==1.12.0
+traitlets==4.3.2
+Werkzeug==0.15.4
 
