@@ -1,0 +1,22 @@
+Tweet_ID,Parent_Tweet_ID,Time,Account_Name,Tweet,TweetScore,Sentiment,Noun,Influence
+1256957565562486784,None,2020-05-03 14:43:31,realDonaldTrump,"....And then came a Plague, a great and powerful Plague, and the World was never to be the same again! But America… https://t.co/X1ePUkGoP3",0.8016,positive,plague great,0
+1256955754428448768,None,2020-05-03 14:36:19,realDonaldTrump,So nice to see this great honor. Thank you (but haven’t played golf in a long time)! https://t.co/FfJyUmRdGi,0.9465,positive,thank nice,0
+1256954349491818501,None,2020-05-03 14:30:44,realDonaldTrump,Going well despite the Fake News! https://t.co/WXqcomjahx,0.6054,positive,fake,0
+1256954027268603904,None,2020-05-03 14:29:27,realDonaldTrump,RT @realDonaldTrump: Concast (@NBCNews) and Fake News @CNN are going out of their way to say GREAT things about China. They are Chinese pup…,0.4084,positive,rt great,0
+1256953847907581956,None,2020-05-03 14:28:45,realDonaldTrump,RT @realDonaldTrump: Don’t allow RIGGED ELECTIONS!,-0.3869,negative,rt,0
+1256953738943660034,None,2020-05-03 14:28:19,realDonaldTrump,"RT @realDonaldTrump: 96% Approval Rating in the Republican Party. Thank you! Also, just out, highest ever Approval Rating overall in the ne…",0.8932,positive,rt highest,0
+1256931676099350528,None,2020-05-03 13:00:38,realDonaldTrump,Some things never get old! https://t.co/0GHkJjNbZL,0.0,neutral,things old,0
+1256930926485024768,None,2020-05-03 12:57:40,realDonaldTrump,Progress being made! https://t.co/cqHKwJCJNm,0.4753,positive,progress,0
+1256930571760087041,None,2020-05-03 12:56:15,realDonaldTrump,Thank you! https://t.co/GAFe1AdZpt,0.4199,positive,thank,0
+1256930134512357377,None,2020-05-03 12:54:31,realDonaldTrump,Keep punching Mike! https://t.co/QwFcFQ8B5O,0.0,neutral,punching,0
+1256929658890792960,None,2020-05-03 12:52:37,realDonaldTrump,Thank you! https://t.co/s3aLt9qTVZ,0.4199,positive,thank,0
+1256928926124904448,None,2020-05-03 12:49:43,realDonaldTrump,Wow! https://t.co/90GHsQRBAB,0.6239,positive,wow,0
+1256928204801089539,None,2020-05-03 12:46:51,realDonaldTrump,"Hopefully our Country will soon mend. We are all missing our wonderful rallies, and many other things! https://t.co/LX8TyBzsXO",0.6696,positive,hopefully wonderful,0
+1256921471286468609,None,2020-05-03 12:20:05,realDonaldTrump,"Many complaints coming in about Maine. I love that State, won Maine 2 - Don’t make the cure worse than the problem… https://t.co/0FJ9HLqC4x",0.4767,positive,complaints many,0
+1256916284685586434,None,2020-05-03 11:59:29,realDonaldTrump,"RT @DeAnna4Congress: For the #TrumpIsNotADoctor crowd...
+
+Bill Nye is not a scientist.
+
+Greta Thunberg is not a climate expert.
+
+Hillary Cl…",0.0,neutral,rt,0
