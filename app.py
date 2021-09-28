@@ -5,8 +5,6 @@ import numpy as np
 
 import plotly.figure_factory as ff
 import plotly.graph_objs as go
-import chart_studio.plotly as py
-from chart_studio.plotly import iplot
 
 ###################################################################
 ## Future tasks
@@ -15,18 +13,18 @@ from chart_studio.plotly import iplot
 
 # Initializing Variables
 user_1 = "Boris Johnson"
-user_1_tweet_replies_file = "BorisJohnson's_tweet_replies.csv"
-user_1_hashtags_file = "BorisJohnson's_hashtags_past_30_days.csv"
-user_1_mentions_file = "BorisJohnson's_mentions_past_30_days.csv"
-user_1_frequency_words_file = "BorisJohnson's_tweets_replies_highest_frequency_words.csv"
-user_1_stats_file = "BorisJohnson's_stats.csv"
+user_1_tweet_replies_file = "data/BorisJohnson's_tweet_replies.csv"
+user_1_hashtags_file = "data/BorisJohnson's_hashtags_past_30_days.csv"
+user_1_mentions_file = "data/BorisJohnson's_mentions_past_30_days.csv"
+user_1_frequency_words_file = "data/BorisJohnson's_tweets_replies_highest_frequency_words.csv"
+user_1_stats_file = "data/BorisJohnson's_stats.csv"
 
 user_2 = "Donald Trump"
-user_2_tweet_replies_file = "realDonaldTrump's_tweet_replies.csv"
-user_2_hashtags_file = "realDonaldTrump's_hashtags_past_30_days.csv"
-user_2_mentions_file = "realDonaldTrump's_mentions_past_30_days.csv"
-user_2_frequency_words_file = "realDonaldTrump's_tweets_replies_highest_frequency_words.csv"
-user_2_stats_file = "realDonaldTrump's_stats.csv"
+user_2_tweet_replies_file = "data/realDonaldTrump's_tweet_replies.csv"
+user_2_hashtags_file = "data/realDonaldTrump's_hashtags_past_30_days.csv"
+user_2_mentions_file = "data/realDonaldTrump's_mentions_past_30_days.csv"
+user_2_frequency_words_file = "data/realDonaldTrump's_tweets_replies_highest_frequency_words.csv"
+user_2_stats_file = "data/realDonaldTrump's_stats.csv"
 
 # Initializing Colors
 colors = ['hsl('+str(h)+',70%'+',70%)' for h in np.linspace(0, 360, 15)]
@@ -311,8 +309,8 @@ def table_stats(stats_data_user_1, stats_data_user_2, user_name_1, user_name_2):
 ###################################################################
 # Dash 
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 from dash.dependencies import Input, Output
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
